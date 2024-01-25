@@ -7,7 +7,7 @@ public class Triangle {
 
 		boolean triangle = ((a+b)>c);
 
-		System.out.println(a + ", " + b + " ," + c + ": " +triangle );
+		System.out.println(a + ", " + b + ", " + c + ": " +triangle );
 		}
 	}
 
